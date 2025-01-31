@@ -75,6 +75,6 @@ This project is open-source and available under the [MIT License](LICENSE).
 
 ## 📞 Contact
 For any queries or contributions, feel free to reach out:
-- GitHub: [yourusername](https://github.com/SalmaAbdelkader)
+- GitHub: [https://github.com/SalmaAbdelkader]
 - Email: salmaabdelkader2019@gmail.com
 
