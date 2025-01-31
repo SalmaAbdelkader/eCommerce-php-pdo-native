@@ -1,0 +1,5 @@
+============================
+========= Functions ========
+============================
+
+/// getAll($field, $table, $where = null, $orderField, $ordering = 'DESC')
